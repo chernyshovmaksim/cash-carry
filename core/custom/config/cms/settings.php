@@ -4,5 +4,7 @@
  * evo()->getConfig('site_name');
  */
 return [
-    'site_name' => 'test'
+    'site_name' => 'Склад Cash&Carry',
+    'ControllerNamespace' => 'EvolutionCMS\\Main\\Controllers\\',
+    'which_editor' => 'TinyMCE5'
 ];
