@@ -1,7 +1,9 @@
 {
     "name": "evolutioncms/custom",
     "require": {
-        "evolution-cms-extras/tinymce5": "5.7.1"
+        "evolution-cms-extras/tinymce5": "5.7.1",
+        "evolution-cms-extras/doclister": "*",
+        "evolution-cms-extras/formlister": "*"
     },
     "autoload": {
         "psr-4": {
