@@ -1,7 +1,6 @@
 <header class="header">
     <div class="container">
         <div class="row header__top-row">
-            {{-- row --}}
             <a href="/">
                 <img src="/assets/theme/img/icons/map-pin.svg" alt="">
                 <span>Склад: Ул.Победы 75Е</span>
