@@ -120,7 +120,8 @@
   display: flex;
   align-items: center;
   justify-content: end;
-  background-color: #000;
+  background-color: #00694b;
+  border: none;
 }
 .header__middle-row .search__button img {
   padding-right: 3%;
@@ -135,7 +136,7 @@
   padding-left: 0.5rem;
   border: none;
   outline: none;
-  border: 1px solid #000;
+  border: 1px solid #00694b;
   border-radius: 5px;
 }
 .header__bottom-row {
@@ -148,12 +149,13 @@
   flex-wrap: nowrap;
   gap: 0.5rem;
   overflow-x: scroll;
+  width: 100%;
 }
 .header__bottom-row nav a {
   text-decoration: none;
   color: #fff;
   padding: 0.2rem;
-  background: #000;
+  background: #00694b;
   border-radius: 5px;
 }
 
@@ -163,7 +165,7 @@
   bottom: 0;
   width: 100%;
   min-height: 2rem;
-  background-color: #000;
+  background-color: #00694b;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -192,7 +194,8 @@
   box-sizing: border-box;
 }
 
-body, html {
+body,
+html {
   margin: 0;
   padding: 0;
   width: 100%;
@@ -224,7 +227,7 @@ ul {
   width: 40px;
   height: 40px;
   border-radius: 5px;
-  background-color: #000;
+  background-color: #00694b;
   display: flex;
   align-items: center;
   justify-content: center;
